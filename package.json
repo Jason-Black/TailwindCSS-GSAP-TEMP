@@ -1,0 +1,19 @@
+{
+  "name": "tailwindcss-gsap-temp",
+  "version": "1.0.0",
+  "description": "A working Tailwind/GSAP working example.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "npx tailwindcss -i scr/styles.css -o dist/output.css --watch",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.6"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
