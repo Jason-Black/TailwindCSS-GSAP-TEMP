@@ -8,6 +8,20 @@ A starting point to clone
 - *Smooth animations* using GSAP
 - ***Clean and modern layout***
 
+## Scripts that can be run
+
+#### Build Tailwind CSS - Script that rebuilds css
+```bash
+npm build:css
+``` 
+#### Start Live server
+```bash
+npm start
+```
+#### Stop Live Server:
+To stop the live server, press ```Ctrl + C``` in the terminal where the server is running
+
+To stop the live server, press Ctrl + C in the terminal where the server is running.
 
 ### Installation
 
