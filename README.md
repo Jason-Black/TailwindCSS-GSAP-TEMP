@@ -16,3 +16,30 @@ git commit -m "Initial commit for new project"
 git push origin main
 
 
+# Web Design Company Template
+
+This repository is a starting point for creating professional and responsive websites using Tailwind CSS and GSAP for animations.
+
+## Features
+
+- Responsive design with Tailwind CSS
+- Smooth animations using GSAP
+- Clean and modern layout
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+- GitHub account
+
+### Installation
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/web-design-company.git
+   cd web-design-company
+
+
+
